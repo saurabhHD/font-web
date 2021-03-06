@@ -1,0 +1,28 @@
+body{
+				background-color: #f5f8fc;
+			}
+			.fancytext:focus
+			{
+				outline: none !important;
+				box-shadow: none !important;
+			}
+			.share-icons:hover{
+				box-shadow: 7px 5px 31px 4px #ccc;
+			}
+			.share-icons{
+				cursor: pointer !important;
+			}
+			
+			
+			input{
+				border:none !important;
+			}
+			input:focus{
+				border:none !important;
+				outline: none !important;
+			}
+			.my-font{
+				font-family: sans-serif;
+			}
+
+	
